@@ -1,1 +1,3 @@
 # taskmanagement
+
+ Task Management System that allows users to create, manage, and track their tasks. This project can serve as a practical application for task organization and management. It will have user authentication, task creation, task assignment, due dates, and other feature ...
